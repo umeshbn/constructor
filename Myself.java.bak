@@ -1,0 +1,18 @@
+class MySelf{
+         String name;
+		 double height;
+		 int number;
+		 String color;
+		 boolean introvert;
+		 String Handsome;
+		 
+		
+			MySelf(){
+				System.out.println("i dont explain becoz am an introvert");
+			}
+		 MySelf(int numberof,String nameof,boolean introvertof){
+			 number=numberof;
+			 name=nameof;
+			 introvert=introvertof;
+		 }
+}
